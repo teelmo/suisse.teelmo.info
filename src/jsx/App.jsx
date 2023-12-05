@@ -134,7 +134,7 @@ function App() {
           }, {
             lat: 46.1978,
             lon: 7.1753,
-            name: 'Ozronnas'
+            name: 'Ovronnaz'
           }, {
             lat: 46.2984,
             lon: 7.0550,
